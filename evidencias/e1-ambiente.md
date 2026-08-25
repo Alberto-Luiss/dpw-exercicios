@@ -1,4 +1,3 @@
-https://github.com/Alberto-Luiss/dpw-exercicios/blob/1c77a6cfe34b01b5cba0cd342c0ea26b27fd25a5/.gitignore#L1
 # E00.1 — Ambiente reprodutível
 
 ## Reinstalação a partir do zero
