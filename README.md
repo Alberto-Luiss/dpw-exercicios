@@ -1,4 +1,4 @@
-# DPW — Exercícios do M00 (versão A)
+# DPW — Exercícios do M00 (versão B)
 
 **Nome:** Seu Nome Completo
 **Ambiente:** Windows 11 + PowerShell 7
